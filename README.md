@@ -51,6 +51,9 @@
 - Login Screen
 
 ## Sketches
+
+### Un Sketch es un dibujo o esquema preliminar que se utiliza para plasmar una idea o concepto de manera rápida y sencilla. Generalmente, los Sketches son bocetos básicos, creados a mano o mediante herramientas digitales, y sirven como punto de partida para desarrollar diseños más detallados.
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img src="./img/results/Sketch/Sketch_01.png?raw=true" alt="img1" width="200" style="margin-bottom: 10px;" />
     <img src="./img/results/Sketch/Sketch_02.png?raw=true" alt="img2" width="200" style="margin-bottom: 10px;" />
@@ -61,6 +64,9 @@
 </div>
 
 ## Mockups
+
+### Un Mockup es una representación visual estática y de alta fidelidad de un diseño que muestra cómo se verá un producto final. A diferencia de los Sketches, que son bocetos rápidos, y de los prototipos, que suelen ser interactivos, los Mockups se centran en el aspecto visual, como colores, tipografías, imágenes y distribución de elementos.
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img src="./img/results/Mockups/MPaginaCarga.png?raw=true" alt="img1" width="200" style="margin-bottom: 10px;" />
     <img src="./img/results/Mockups/MLogin.png?raw=true" alt="img2" width="200" style="margin-bottom: 10px;" />
@@ -83,6 +89,9 @@
 </div>
 
 ## Wireframes
+
+### Un Wireframe es un esquema o guía visual que representa la estructura básica y jerarquía de contenido de una página o aplicación. Es una herramienta clave en el diseño UX/UI que ayuda a planificar la disposición de elementos como menús, botones, imágenes y texto, sin enfocarse en detalles visuales como colores o estilos.
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img src="./img/results/Wireframes/Wireframe_01.png?raw=true" alt="img1" width="200" style="margin-bottom: 10px;" />
     <img src="./img/results/Wireframes/Wireframe_02.png?raw=true" alt="img2" width="200" style="margin-bottom: 10px;" />
@@ -93,11 +102,16 @@
 </div>
 
 ## Prototipo (No funcional)
+
+### Puede probar nuestro Prototipo no funcional en el siguiente enlace
 <a href="https://www.figma.com/proto/wNpBzyY2QXlaNIN3mO2NT5/PrivilegeCare_UI?node-id=0-1&t=iLJkEofXMURuXD0s-1" target="_blank" style="font-size: 20px; text-decoration: underline;">
     Visita el Prototipo de Nuestra App
 </a>
 
 ## Screens
+
+### Un Screen (o pantalla) en diseño se refiere a la representación visual de una única vista o interfaz dentro de un producto digital, como una aplicación o página web. Cada Screen muestra cómo los elementos, contenidos y funciones se presentan al usuario en un momento específico.
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img src="./img/results/Screens/L1.png?raw=true" alt="img1" width="200" style="margin-bottom: 10px;" />
     <img src="./img/results/Screens/L2.png?raw=true" alt="img2" width="200" style="margin-bottom: 10px;" />

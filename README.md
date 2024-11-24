@@ -76,16 +76,16 @@
     <img src="./img/results/Mockups/MInicio.png?raw=true" alt="img4" width="200" style="margin-bottom: 10px;" />
 </div>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Mockups/MDoctoresPediatricos.png?raw=true" alt="img3" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Mockups/MDetallesDoctores.png?raw=true" alt="img4" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MDoctoresPediatricos.png?raw=true" alt="img5" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MDetallesDoctores.png?raw=true" alt="img6" width="200" style="margin-bottom: 10px;" />
 </div>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Mockups/MSeleccionFecha.png?raw=true" alt="img3" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Mockups/MReservaCompleta.png?raw=true" alt="img4" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MSeleccionFecha.png?raw=true" alt="img7" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MReservaCompleta.png?raw=true" alt="img8" width="200" style="margin-bottom: 10px;" />
 </div>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Mockups/MNotificaciones.png?raw=true" alt="img3" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Mockups/MPerfil.png?raw=true" alt="img4" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MNotificaciones.png?raw=true" alt="img9" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MPerfil.png?raw=true" alt="img10" width="200" style="margin-bottom: 10px;" />
 </div>
 
 ## Wireframes
@@ -115,7 +115,7 @@
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img src="./img/results/Screens/L1.png?raw=true" alt="img1" width="200" style="margin-bottom: 10px;" />
     <img src="./img/results/Screens/L2.png?raw=true" alt="img2" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Screens/L3.png?raw=true" alt="img2" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Screens/L3.png?raw=true" alt="img3" width="200" style="margin-bottom: 10px;" />
 </div>
 
 ## AUTORES

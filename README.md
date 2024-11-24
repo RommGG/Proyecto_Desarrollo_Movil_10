@@ -12,6 +12,7 @@
 |-----------------|----------|
 |Romualdo Perez Romero|210714|
 |Eli Aidan Melo Calva|210538|
+|Diego Oliver Basilio||
 
 ## Sketches
 <div style="display: flex; justify-content: space-between; margin-bottom: 50px;">

@@ -1,0 +1,24 @@
+name: pediatria_app_movil
+description: Una nueva aplicación Flutter.
+
+# Versión de la aplicación
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # Archivos de assets para la aplicación.
+  assets:
+    - lib/assets/images/LogoHospital.png

@@ -1,11 +1,6 @@
 # Proyecto_Desarrollo_Movil_10
 
-
-## Logo del Hospital
-![Logo](img/results/LogoHospital.png)
-
-
-## **Documentación**
+# **Documentación**
 ---
 <div style="display: flex; justify-content: space-between;">
     <img align="left" src="img/LOGO TIC (4).png?raw=true" alt="Logo 1" width="300"; />
@@ -49,6 +44,9 @@
 - Loading Screen
 
 - Login Screen
+
+## Logo del Hospital
+![Logo](img/results/LogoHospital.png)
 
 ## Sketches
 

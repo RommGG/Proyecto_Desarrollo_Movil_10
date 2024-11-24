@@ -55,12 +55,12 @@
 ### Un Sketch es un dibujo o esquema preliminar que se utiliza para plasmar una idea o concepto de manera rápida y sencilla. Generalmente, los Sketches son bocetos básicos, creados a mano o mediante herramientas digitales, y sirven como punto de partida para desarrollar diseños más detallados.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Sketch/Sketch_01.png?raw=true" alt="img1" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Sketch/Sketch_02.png?raw=true" alt="img2" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Sketch/Sketch_01.png?raw=true" alt="img1" width="400" style="margin-bottom: 10px;" />
+    <img src="./img/results/Sketch/Sketch_02.png?raw=true" alt="img2" width="400" style="margin-bottom: 10px;" />
 </div>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Sketch/Sketch_03.png?raw=true" alt="img3" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Sketch/Sketch_04.png?raw=true" alt="img4" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Sketch/Sketch_03.png?raw=true" alt="img3" width="400" style="margin-bottom: 10px;" />
+    <img src="./img/results/Sketch/Sketch_04.png?raw=true" alt="img4" width="400" style="margin-bottom: 10px;" />
 </div>
 
 ## Mockups
@@ -93,12 +93,12 @@
 ### Un Wireframe es un esquema o guía visual que representa la estructura básica y jerarquía de contenido de una página o aplicación. Es una herramienta clave en el diseño UX/UI que ayuda a planificar la disposición de elementos como menús, botones, imágenes y texto, sin enfocarse en detalles visuales como colores o estilos.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Wireframes/Wireframe_01.png?raw=true" alt="img1" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Wireframes/Wireframe_02.png?raw=true" alt="img2" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Wireframes/Wireframe_01.png?raw=true" alt="img1" width="400" style="margin-bottom: 10px;" />
+    <img src="./img/results/Wireframes/Wireframe_02.png?raw=true" alt="img2" width="400" style="margin-bottom: 10px;" />
 </div>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Wireframes/Wireframe_03.png?raw=true" alt="img3" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Wireframes/Wireframe_04.png?raw=true" alt="img4" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Wireframes/Wireframe_03.png?raw=true" alt="img3" width="400" style="margin-bottom: 10px;" />
+    <img src="./img/results/Wireframes/Wireframe_04.png?raw=true" alt="img4" width="400" style="margin-bottom: 10px;" />
 </div>
 
 ## Prototipo (No funcional)

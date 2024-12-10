@@ -17,7 +17,7 @@ class _SplashScreenState extends State<SplashScreen> {
     Timer(const Duration(seconds: 3), () {
       Navigator.pushReplacement(
         context,
-        MaterialPageRoute(builder: (context) => const LoginScreen()),
+        MaterialPageRoute(builder: (context) =>  LoginScreen()),
       );
     });
   }
@@ -25,7 +25,7 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Theme.of(context).primaryColor, // Color de fondo según el tema.
+      //backgroundColor: Theme.of(context).primaryColor, // Color de fondo según el tema.
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -38,16 +38,8 @@ class _SplashScreenState extends State<SplashScreen> {
               fit: BoxFit.contain,      // Mantén la proporción de la imagen.
             ),
             const SizedBox(height: 20),
-            const Text(
-              'Bienvenido',
-              style: TextStyle(
-                fontSize: 24,
-                fontWeight: FontWeight.bold,
-                color: Colors.white,
-              ),
-            ),
             const SizedBox(height: 10),
-            const CircularProgressIndicator(color: Colors.white),
+            const CircularProgressIndicator(color: Color.fromARGB(255, 82, 76, 76)),
           ],
         ),
       ),

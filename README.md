@@ -92,15 +92,15 @@
 ### Un Wireframe es un esquema o guía visual que representa la estructura básica y jerarquía de contenido de una página o aplicación. Es una herramienta clave en el diseño UX/UI que ayuda a planificar la disposición de elementos como menús, botones, imágenes y texto, sin enfocarse en detalles visuales como colores o estilos.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Wireframes/Wireframe_01.png?raw=true" alt="img1" width="700" style="margin-bottom: 10px;" />
+    <img src="./img/results/Wireframes/Wireframe_01.png?raw=true" alt="img1" width="500" style="margin-bottom: 10px;" />
     <img src="./img/results/Wireframes/Wireframe_02.png?raw=true" alt="img2" width="400" style="margin-bottom: 10px;" />
 </div>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img src="./img/results/Wireframes/Wireframe_03.png?raw=true" alt="img3" width="400" style="margin-bottom: 10px;" />
-    <img src="./img/results/Wireframes/Wireframe_04.png?raw=true" alt="img4" width="700" style="margin-bottom: 10px;" />
+    <img src="./img/results/Wireframes/Wireframe_04.png?raw=true" alt="img4" width="500" style="margin-bottom: 10px;" />
 </div>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Wireframes/Wireframe_05.png?raw=true" alt="img5" width="400" style="margin-bottom: 10px;" />
+    <img src="./img/results/Wireframes/Wireframe_05.png?raw=true" alt="img5" width="500" style="margin-bottom: 10px;" />
     <img src="./img/results/Wireframes/Wireframe_06.png?raw=true" alt="img6" width="400" style="margin-bottom: 10px;" />
 </div>
 
@@ -109,16 +109,16 @@
 ### Un Mockup es una representación visual estática y de alta fidelidad de un diseño que muestra cómo se verá un producto final. A diferencia de los Sketches, que son bocetos rápidos, y de los prototipos, que suelen ser interactivos, los Mockups se centran en el aspecto visual, como colores, tipografías, imágenes y distribución de elementos.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Mockups/MLogin.png?raw=true" alt="img1" width="600" style="margin-bottom: 10px;" />
-    <img src="./img/results/Mockups/MInicio.png?raw=true" alt="img2" width="600" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MLogin.png?raw=true" alt="img1" width="500" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MInicio.png?raw=true" alt="img2" width="500" style="margin-bottom: 10px;" />
 </div>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Mockups/MRegistros.png?raw=true" alt="img3" width="600" style="margin-bottom: 10px;" />
-    <img src="./img/results/Mockups/MSeguimiento.png?raw=true" alt="img4" width="600" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MRegistros.png?raw=true" alt="img3" width="500" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MSeguimiento.png?raw=true" alt="img4" width="500" style="margin-bottom: 10px;" />
 </div>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Mockups/MEditar.png?raw=true" alt="img5" width="600" style="margin-bottom: 10px;" />
-    <img src="./img/results/Mockups/MEstadisticas.png?raw=true" alt="img6" width="600" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MEditar.png?raw=true" alt="img5" width="500" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MEstadisticas.png?raw=true" alt="img6" width="500" style="margin-bottom: 10px;" />
 </div>
 
 ## Prototipo (No funcional)

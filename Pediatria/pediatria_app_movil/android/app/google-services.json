@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342434937170",
+    "firebase_url": "https://flutter-hospital-pediatria-default-rtdb.firebaseio.com",
+    "project_id": "flutter-hospital-pediatria",
+    "storage_bucket": "flutter-hospital-pediatria.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342434937170:android:1661cfe42cf4a031fea28b",
+        "android_client_info": {
+          "package_name": "pediatria.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342434937170-3dvusrgsh3od9sctnvivq8ah6r3fioth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Pgc-ZCY8nmAyBGOoD1cENhQC15Z1x_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342434937170-3dvusrgsh3od9sctnvivq8ah6r3fioth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

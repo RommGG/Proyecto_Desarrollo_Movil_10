@@ -109,16 +109,16 @@
 ### Un Mockup es una representación visual estática y de alta fidelidad de un diseño que muestra cómo se verá un producto final. A diferencia de los Sketches, que son bocetos rápidos, y de los prototipos, que suelen ser interactivos, los Mockups se centran en el aspecto visual, como colores, tipografías, imágenes y distribución de elementos.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Mockups/MLogin.png?raw=true" alt="img1" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Mockups/MInicio.png?raw=true" alt="img2" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MLogin.png?raw=true" alt="img1" width="400" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MInicio.png?raw=true" alt="img2" width="400" style="margin-bottom: 10px;" />
 </div>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Mockups/MRegistros.png?raw=true" alt="img3" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Mockups/MSeguimiento.png?raw=true" alt="img4" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MRegistros.png?raw=true" alt="img3" width="400" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MSeguimiento.png?raw=true" alt="img4" width="400" style="margin-bottom: 10px;" />
 </div>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Mockups/MEditar.png?raw=true" alt="img5" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Mockups/MEstadisticas.png?raw=true" alt="img6" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MEditar.png?raw=true" alt="img5" width="400" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MEstadisticas.png?raw=true" alt="img6" width="400" style="margin-bottom: 10px;" />
 </div>
 
 ## Prototipo (No funcional)

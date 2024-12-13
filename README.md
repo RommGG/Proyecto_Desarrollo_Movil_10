@@ -23,29 +23,54 @@
 ### LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175c2?style=for-the-badge&logo=dart&logoColor=white) ![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## **Evaluación:** Examen Práctico
-## Puntos clave:
-- Repositorio Creado
+## **Descripcion:**
+### Este sistema de un hospital desarrollado en Dart y Flutter se enfatiza en una plataforma tecnológica moderna qque está diseñada para optimizar y centralizar los procesos hospitalarios a su vez mejorando la atención al paciente, la gestión administrativa y la comunicación entre áreas. Gracias a las capacidades multiplataforma de Flutter, el sistema está disponible tanto para aplicaciones móviles como para interfaces web, garantizando acceso rápido y seguro desde cualquier dispositivo.
+<br>
 
-- Documentación de Inicio
+## **Objetivo General:**
+### Desarrollar una aplicación móvil que permita la gestión y administración eficaz del hospital PrivilegeCare, a través de las TIC´s. Este sistema garantizará una atención de calidad, centrada en los pacientes pediátricos a través de herramientas de software.
+<br>
 
-- Sketchs
+## **Objetivos Específicos:**
+### •	Definir quiénes serán nuestros usuarios
+### •	Definir las preguntas o encuestas a realizar
+### •	Implementar un módulo de registro de pacientes pediátricos
+### •	Implementar un módulo de gestión de pacientes pediátricos 
+### •	Implementar un módulo de información general de los registros pediátricos
+### •	Implementar un módulo de registro de vacunas
+### •	Implementar un módulo de seguimiento de pacientes
+### •	Utilizar herramientas de desarrollo para el Front-end (Dart y Flutter)
+### •	Utilizar herramientas de desarrollo para el Back-end (Node.js)
+### •	Utilizar herramientas de desarrollo para la Base de Datos (Firebase)
+<br>
 
-- Mockups
+## **Requerimientos Funcionales:**
 
-- Wireframes 
+| **N.º** | **Nombre** | **Descripción**|
+|---------|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Registro de Pacientes | Crear perfiles individuales para cada paciente con información como nombre, fecha de nacimiento, historial médico y alergias.|
+| 2 | Seguimiento del Desarrollo Infantil | Herramientas para que los padres ingresen hitos del desarrollo de sus hijos, facilitando el seguimiento por parte del equipo médico.|
+| 3 | Historial Médico Electrónico| Almacenamiento seguro y acceso a historiales médicos electrónicos, permitiendo a los médicos revisar y actualizar información de manera eficiente. |
+| 4 | Seguimiento de Crecimiento| Gráficos y herramientas para seguir el crecimiento y desarrollo de los niños a lo largo del tiempo.|
+| 5 | Informes de Consulta| Generación de informes de cada consulta que incluyan diagnósticos, tratamientos recomendados y próximas citas.|
 
-- Prototipo (No funcional)
 
-- Actividad Frecuente del Equipo (Commits)
+## **Requerimientos No Funcionales:**
 
-- Splash Screen
+| **N.º** | **Nombre**| **Descripción**|
+|---------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Sensibilidad y Adaptabilidad a Niños | Diseño visual atractivo y amigable para niños, con colores vivos, lenguaje sencillo y elementos interactivos que reduzcan el miedo y la ansiedad durante las visitas.|
+| 2 | Accesibilidad para Niños con Necesidades Especiales | Cumplimiento de estándares de accesibilidad, adaptando contenido multimedia para niños con discapacidades visuales o auditivas.|
+| 3 | Citas y Gestión de Pacientes | Sistema de programación de citas en línea, con notificaciones automáticas para recordatorios, facilitando la reserva de citas con especialistas.|
+| 4 | Educación Médica Continua | Sección para educación continua de pediatras, con recursos actualizados, Webinars y cursos sobre diagnóstico y tratamientos pediátricos.|
+| 5 | Confidencialidad y Privacidad de la Información | Mecanismos de seguridad robustos para proteger información médica confidencial, cumpliendo con regulaciones de privacidad específicas para niños.|
+| 6 | Comunicación Efectiva | Integración de herramientas de comunicación segura, como mensajes cifrados y salas de chat protegidas, para facilitar la comunicación entre padres y profesionales.|
+| 7 | Compatibilidad con Dispositivos Móviles | Diseño responsivo que garantiza una experiencia óptima en dispositivos móviles, optimizando la velocidad de carga y el rendimiento.|
+| 8 | Respaldo Técnico y de Soporte | Disponibilidad de un equipo de soporte técnico y documentación accesible que brinde instrucciones detalladas sobre el uso de la página.|
+| 9 | Pruebas Exhaustivas y Garantía de Calidad | Realización de pruebas de usabilidad y rendimiento para asegurar que la página sea intuitiva y pueda manejar grandes volúmenes de tráfico sin problemas.|
+<br>
 
-- Loading Screen
-
-- Login Screen
-
-## Logo del Hospital
+# Logo del Hospital
 ![Logo](img/results/LogoHospital.png)
 
 ## Sketches
@@ -61,30 +86,6 @@
     <img src="./img/results/Sketch/Sketch_04.png?raw=true" alt="img4" width="400" style="margin-bottom: 10px;" />
 </div>
 
-## Mockups
-
-### Un Mockup es una representación visual estática y de alta fidelidad de un diseño que muestra cómo se verá un producto final. A diferencia de los Sketches, que son bocetos rápidos, y de los prototipos, que suelen ser interactivos, los Mockups se centran en el aspecto visual, como colores, tipografías, imágenes y distribución de elementos.
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Mockups/MPaginaCarga.png?raw=true" alt="img1" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Mockups/MLogin.png?raw=true" alt="img2" width="200" style="margin-bottom: 10px;" />
-</div>
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Mockups/MCrearCuenta.png?raw=true" alt="img3" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Mockups/MInicio.png?raw=true" alt="img4" width="200" style="margin-bottom: 10px;" />
-</div>
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Mockups/MDoctoresPediatricos.png?raw=true" alt="img5" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Mockups/MDetallesDoctores.png?raw=true" alt="img6" width="200" style="margin-bottom: 10px;" />
-</div>
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Mockups/MSeleccionFecha.png?raw=true" alt="img7" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Mockups/MReservaCompleta.png?raw=true" alt="img8" width="200" style="margin-bottom: 10px;" />
-</div>
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Mockups/MNotificaciones.png?raw=true" alt="img9" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Mockups/MPerfil.png?raw=true" alt="img10" width="200" style="margin-bottom: 10px;" />
-</div>
 
 ## Wireframes
 
@@ -98,10 +99,31 @@
     <img src="./img/results/Wireframes/Wireframe_03.png?raw=true" alt="img3" width="400" style="margin-bottom: 10px;" />
     <img src="./img/results/Wireframes/Wireframe_04.png?raw=true" alt="img4" width="400" style="margin-bottom: 10px;" />
 </div>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img src="./img/results/Wireframes/Wireframe_05.png?raw=true" alt="img3" width="400" style="margin-bottom: 10px;" />
+    <img src="./img/results/Wireframes/Wireframe_06.png?raw=true" alt="img4" width="400" style="margin-bottom: 10px;" />
+</div>
+
+## Mockups
+
+### Un Mockup es una representación visual estática y de alta fidelidad de un diseño que muestra cómo se verá un producto final. A diferencia de los Sketches, que son bocetos rápidos, y de los prototipos, que suelen ser interactivos, los Mockups se centran en el aspecto visual, como colores, tipografías, imágenes y distribución de elementos.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img src="./img/results/Mockups/MLogin.png?raw=true" alt="img1" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MInicio.png?raw=true" alt="img2" width="200" style="margin-bottom: 10px;" />
+</div>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img src="./img/results/Mockups/MRegistros.png?raw=true" alt="img3" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MSeguimiento.png?raw=true" alt="img4" width="200" style="margin-bottom: 10px;" />
+</div>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img src="./img/results/Mockups/MEditar.png?raw=true" alt="img5" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Mockups/MEstadisticas.png?raw=true" alt="img6" width="200" style="margin-bottom: 10px;" />
+</div>
 
 ## Prototipo (No funcional)
 
-### Puede probar nuestro Prototipo no funcional en el siguiente enlace
+### Puede probar nuestro Prototipo No Funcional en el siguiente enlace
 <a href="https://www.figma.com/proto/wNpBzyY2QXlaNIN3mO2NT5/PrivilegeCare_UI?node-id=0-1&t=iLJkEofXMURuXD0s-1" target="_blank" style="font-size: 20px; text-decoration: underline;">
     Visita el Prototipo de Nuestra App
 </a>

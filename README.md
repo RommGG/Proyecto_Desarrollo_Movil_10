@@ -136,7 +136,7 @@
 
 ## Presentacion del Documento
 
-### Puede probar nuestro Prototipo No Funcional en el siguiente enlace
+### Descargue la presentacion del Documento
 <a href="./img/results/Presentacion/PrivilegeCare_Pediatria.pdf" download target="_blank" style="font-size: 20px; text-decoration: underline;">Descargue la Documentacion</a>
 
 ## Screens

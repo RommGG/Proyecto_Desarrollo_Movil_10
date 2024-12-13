@@ -14,17 +14,22 @@
 
 ## **Integrantes**
 
-| Nombre Completo | Matricula|
-|-----------------|----------|
-|Romualdo Perez Romero|210714|
-|Eli Aidan Melo Calva|210538|
-|Diego Oliver Basilio|210436|
+| Nombre Completo              | Matrícula | Rol                        |
+|------------------------------|-----------|----------------------------|
+| Romualdo Perez Romero         | 210714    | Desarrollador              |
+| Eli Aidan Melo Calva          | 210538    | Líder del Proyecto, Documentador |
+| Diego Oliver Basilio          | 210436    | Diseñador                   |
+
+## **Organigrama**
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img src="./img/results/Organigrama/Organigrama.png?raw=true" alt="img5" width="900" style="margin-bottom: 10px;" />
+</div>
 
 ### LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175c2?style=for-the-badge&logo=dart&logoColor=white) ![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## **Descripcion:**
-### Este sistema de un hospital desarrollado en Dart y Flutter se enfatiza en una plataforma tecnológica moderna qque está diseñada para optimizar y centralizar los procesos hospitalarios a su vez mejorando la atención al paciente, la gestión administrativa y la comunicación entre áreas. Gracias a las capacidades multiplataforma de Flutter, el sistema está disponible tanto para aplicaciones móviles como para interfaces web, garantizando acceso rápido y seguro desde cualquier dispositivo.
+### Este sistema de un hospital desarrollado en Dart y Flutter se enfatiza en una plataforma tecnológica moderna que está diseñada para optimizar y centralizar los procesos hospitalarios a su vez mejorando la atención al paciente, la gestión administrativa y la comunicación entre áreas. Gracias a las capacidades multiplataforma de Flutter, el sistema está disponible tanto para aplicaciones móviles como para interfaces web, garantizando acceso rápido y seguro desde cualquier dispositivo.
 <br>
 
 ## **Objetivo General:**
@@ -124,18 +129,27 @@
 ## Prototipo (No funcional)
 
 ### Puede probar nuestro Prototipo No Funcional en el siguiente enlace
-<a href="https://www.figma.com/proto/wNpBzyY2QXlaNIN3mO2NT5/PrivilegeCare_UI?node-id=0-1&t=iLJkEofXMURuXD0s-1" target="_blank" style="font-size: 20px; text-decoration: underline;">
+<a href="https://www.figma.com/proto/Q4WRMW0iB0n4Y1dG1Y3PRL/App_Pediatria?node-id=1-5&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A101&show-proto-sidebar=1" target="_blank" style="font-size: 20px; text-decoration: underline;">
     Visita el Prototipo de Nuestra App
 </a>
+<br>
+
+## Presentacion del Documento
+
+### Descargue la presentacion del Documento
+<a href="./img/results/Presentacion/PrivilegeCare_Pediatria.pdf" download target="_blank" style="font-size: 20px; text-decoration: underline;">Descargue la Documentacion</a>
 
 ## Screens
 
 ### Un Screen (o pantalla) en diseño se refiere a la representación visual de una única vista o interfaz dentro de un producto digital, como una aplicación o página web. Cada Screen muestra cómo los elementos, contenidos y funciones se presentan al usuario en un momento específico.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Screens/L1.png?raw=true" alt="img1" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Screens/L2.png?raw=true" alt="img2" width="200" style="margin-bottom: 10px;" />
-    <img src="./img/results/Screens/L3.png?raw=true" alt="img3" width="200" style="margin-bottom: 10px;" />
+    <img src="./img/results/Screens/L1.jpeg?raw=true" alt="img1" width="400" style="margin-bottom: 10px;" />
+    <img src="./img/results/Screens/L2.jpeg?raw=true" alt="img2" width="400" style="margin-bottom: 10px;" />
+</div>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img src="./img/results/Screens/L3.jpeg?raw=true" alt="img3" width="400" style="margin-bottom: 10px;" />
+    <img src="./img/results/Screens/L4.jpeg?raw=true" alt="img3" width="400" style="margin-bottom: 10px;" />
 </div>
 
 ## AUTORES

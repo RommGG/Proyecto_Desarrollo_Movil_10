@@ -22,7 +22,7 @@
 
 ## **Organigrama**
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/results/Organigrama/Organigrama.png?raw=true" alt="img5" width="900" style="margin-bottom: 10px;" />
+    <img src="./Organigrama/Organigrama.png?raw=true" alt="img5" width="900" style="margin-bottom: 10px;" />
 </div>
 
 ### LISTA DE HERRAMIENTAS
@@ -137,7 +137,7 @@
 ## Presentacion del Documento
 
 ### Descargue la presentacion del Documento
-<a href="./img/results/Presentacion/PrivilegeCare_Pediatria.pdf" download target="_blank" style="font-size: 20px; text-decoration: underline;">Descargue la Documentacion</a>
+<a href="./Presentacion/PrivilegeCare_Pediatria.pdf" download target="_blank" style="font-size: 20px; text-decoration: underline;">Descargue la Documentacion</a>
 
 ## Screens
 

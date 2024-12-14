@@ -140,10 +140,10 @@
 <a href="./Presentacion/PrivilegeCare_Pediatria.pdf" download target="_blank" style="font-size: 20px; text-decoration: underline;">Descargue la Documentacion</a>
 <br>
 
-## Back-End del proyecto
+## Repositorio sobre el Back-End del proyecto
 
 ### Visualice el BackEnd en la siguiente liga
-<a href="https://github.com/MandoCV/PrivilegeCare-Deploy" target="_blank" style="font-size: 20px; text-decoration: underline;">Ver API </a>
+<a href="https://github.com/MandoCV/PrivilegeCare-Deploy" target="_blank" style="font-size: 20px; text-decoration: underline;">Ver Repositorio </a>
 
 ## Screens
 

@@ -143,7 +143,7 @@
 ## Back-End del proyecto
 
 ### Visualice el BackEnd en la siguiente liga
-<a href="https://privilegecare-deploy-gqmt.onrender.com/docs" target="_blank" style="font-size: 20px; text-decoration: underline;">Ver API </a>
+<a href="https://github.com/MandoCV/PrivilegeCare-Deploy" target="_blank" style="font-size: 20px; text-decoration: underline;">Ver API </a>
 
 ## Screens
 
